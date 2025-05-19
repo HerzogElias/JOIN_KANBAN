@@ -1,4 +1,4 @@
-const FIREBASE_URL = "https://join-1ea19-default-rtdb.europe-west1.firebasedatabase.app";
+const FIREBASE_URL = "https://join-eliasherzog2-default-rtdb.europe-west1.firebasedatabase.app/";
 
 /**
  * Retrieves contacts from the database.
